@@ -48,7 +48,9 @@ Confidence: Likelihood that a consequent is bought when the antecedent is bought
 Lift: Strength of the rule compared to random chance.
 
 🛍️ Dataset
+
 I used this simple database for the demonstration:
+
 dataset = [
     ['Milk', 'Bread', 'Eggs'],
     ['Bread', 'Dipers', 'Beer', 'Eggs'],
